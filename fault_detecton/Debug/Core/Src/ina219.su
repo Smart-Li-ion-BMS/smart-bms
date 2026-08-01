@@ -1,0 +1,5 @@
+../Core/Src/ina219.c:13:6:INA219_WriteReg	32	static
+../Core/Src/ina219.c:23:10:INA219_ReadReg	32	static
+../Core/Src/ina219.c:33:6:INA219_Init	16	static
+../Core/Src/ina219.c:44:7:INA219_GetBusVoltage_V	16	static
+../Core/Src/ina219.c:53:7:INA219_GetCurrent_mA	16	static

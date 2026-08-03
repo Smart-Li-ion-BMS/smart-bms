@@ -1,0 +1,48 @@
+!SESSION 2026-07-22 16:59:01.017 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data /home/sunbeam/CDAC/Microcontroller/Lab/Project/HAL_ADC_trail_batteryvtg
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-07-22 16:59:04.225
+!MESSAGE Log4j2 initialized with config file /home/sunbeam/CDAC/Microcontroller/Lab/Project/HAL_ADC_trail_batteryvtg/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-07-22 16:59:07.006
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2026-07-22 17:11:47.631 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-07-22 17:11:50.215
+!MESSAGE Log4j2 initialized with config file /home/sunbeam/CDAC/Microcontroller/Lab/Project/HAL_ADC_trail_batteryvtg/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-07-22 17:11:53.603
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2026-07-23 08:19:05.161 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-07-23 08:19:09.296
+!MESSAGE Log4j2 initialized with config file /home/sunbeam/CDAC/Microcontroller/Lab/Project/HAL_ADC_trail_batteryvtg/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-07-23 08:19:12.921
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2026-07-25 12:35:21.142 -----------------------------------------------
+eclipse.buildId=Version 2.1.0
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data /home/sunbeam/CDAC/Microcontroller/Lab/Project/HAL_ADC_trail_batteryvtg
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-07-25 12:35:23.948
+!MESSAGE Log4j2 initialized with config file /home/sunbeam/CDAC/Microcontroller/Lab/Project/HAL_ADC_trail_batteryvtg/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-07-25 12:35:26.604
+!MESSAGE Started RMI Server, listening on port 41337

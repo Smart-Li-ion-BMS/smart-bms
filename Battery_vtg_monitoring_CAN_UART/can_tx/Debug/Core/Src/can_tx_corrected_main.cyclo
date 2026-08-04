@@ -1,0 +1,8 @@
+../Core/Src/can_tx_corrected_main.c:73:14:Read_Battery_Voltage	5
+../Core/Src/can_tx_corrected_main.c:107:5:main	5
+../Core/Src/can_tx_corrected_main.c:199:6:SystemClock_Config	3
+../Core/Src/can_tx_corrected_main.c:238:13:MX_ADC1_Init	3
+../Core/Src/can_tx_corrected_main.c:275:13:MX_CAN1_Init	2
+../Core/Src/can_tx_corrected_main.c:301:13:MX_USART2_UART_Init	2
+../Core/Src/can_tx_corrected_main.c:323:13:MX_GPIO_Init	1
+../Core/Src/can_tx_corrected_main.c:345:6:Error_Handler	1

@@ -1,0 +1,21 @@
+08:28:11 **** Incremental Build of configuration Debug for project can_tx ****
+make -j12 all 
+arm-none-eabi-size  can_tx.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27592	    468	   2172	  30232	   7618	can_tx.elf
+Finished building: default.size.stdout
+ 
+08:28:14 **** Incremental Build of configuration Debug for project can_tx ****
+make -j12 all 
+arm-none-eabi-size  can_tx.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27592	    468	   2172	  30232	   7618	can_tx.elf
+Finished building: default.size.stdout
+ 
+08:29:07 **** Incremental Build of configuration Debug for project can_rx ****
+make -j12 all 
+arm-none-eabi-size  can_rx.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26120	    468	   2164	  28752	   7050	can_rx.elf
+Finished building: default.size.stdout
+ 

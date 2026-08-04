@@ -1,0 +1,10 @@
+08:29:07 **** Incremental Build of configuration Debug for project can_rx ****
+make -j12 all 
+arm-none-eabi-size  can_rx.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26120	    468	   2164	  28752	   7050	can_rx.elf
+Finished building: default.size.stdout
+ 
+
+08:29:07 Build Finished. 0 errors, 0 warnings. (took 70ms)
+

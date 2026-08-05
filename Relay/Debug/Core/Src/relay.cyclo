@@ -1,0 +1,5 @@
+../Core/Src/relay.c:12:6:Relay_Init	1
+../Core/Src/relay.c:22:6:Relay_ON	1
+../Core/Src/relay.c:32:6:Relay_OFF	1
+../Core/Src/relay.c:42:6:Relay_Toggle	1
+../Core/Src/relay.c:51:15:Relay_Status	1

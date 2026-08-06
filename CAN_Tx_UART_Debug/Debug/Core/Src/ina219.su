@@ -1,0 +1,9 @@
+../Core/Src/ina219.c:21:26:INA219_WriteReg	40	static
+../Core/Src/ina219.c:38:26:INA219_ReadReg	40	static
+../Core/Src/ina219.c:57:6:INA219_Init	16	static
+../Core/Src/ina219.c:63:9:INA219_IsDeviceReady	8	static
+../Core/Src/ina219.c:74:7:INA219_GetBusVoltage_V	16	static
+../Core/Src/ina219.c:86:7:INA219_GetCurrent_mA	16	static
+../Core/Src/ina219.c:102:19:INA219_GetLastStatus	4	static
+../Core/Src/ina219.c:103:10:INA219_GetLastBusRaw	4	static
+../Core/Src/ina219.c:104:9:INA219_GetLastShuntRaw	4	static

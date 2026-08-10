@@ -1,0 +1,14 @@
+../Core/Src/can_tx_ina219_uart.c:53:14:Read_Temperature_C	8	static
+../Core/Src/can_tx_ina219_uart.c:70:13:Send_Battery_Frame	40	static
+../Core/Src/can_tx_ina219_uart.c:106:5:main	48	static
+../Core/Src/can_tx_ina219_uart.c:144:6:INA219_WriteReg	32	static
+../Core/Src/can_tx_ina219_uart.c:154:10:INA219_ReadReg	32	static
+../Core/Src/can_tx_ina219_uart.c:165:7:INA219_GetBusVoltage_V	16	static
+../Core/Src/can_tx_ina219_uart.c:174:7:INA219_GetCurrent_mA	16	static
+../Core/Src/can_tx_ina219_uart.c:183:6:SystemClock_Config	88	static
+../Core/Src/can_tx_ina219_uart.c:213:7:MX_ADC1_Init	24	static
+../Core/Src/can_tx_ina219_uart.c:240:6:MX_I2C1_Init	8	static
+../Core/Src/can_tx_ina219_uart.c:256:7:MX_CAN1_Init	8	static
+../Core/Src/can_tx_ina219_uart.c:275:7:MX_USART2_UART_Init	8	static
+../Core/Src/can_tx_ina219_uart.c:290:6:MX_GPIO_Init	24	static
+../Core/Src/can_tx_ina219_uart.c:298:6:Error_Handler	4	static,ignoring_inline_asm

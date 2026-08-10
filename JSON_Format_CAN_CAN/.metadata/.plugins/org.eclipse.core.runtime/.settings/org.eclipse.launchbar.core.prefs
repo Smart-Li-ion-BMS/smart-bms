@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CAN_TX Debug (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CAN_TX_DRV Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:can_RX,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:can_TX (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:can_tx Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:can_rx Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:can_rx,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CAN_TX_RRV Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CAN_TX\ Debug\ (1)/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:CAN_TX\ Debug\ (1)/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:can_rx\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:can_rx\ Debug/activeLaunchTarget=null\:---

@@ -1,0 +1,14 @@
+10:05:31 **** Incremental Build of configuration Debug for project CAN_RX_RRV ****
+make -j12 all 
+arm-none-eabi-size  CAN_RX_RRV.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27752	    472	   2648	  30872	   7898	CAN_RX_RRV.elf
+Finished building: default.size.stdout
+ 
+10:06:10 **** Incremental Build of configuration Debug for project CAN_RX_RRV ****
+make -j12 all 
+arm-none-eabi-size  CAN_RX_RRV.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27752	    472	   2648	  30872	   7898	CAN_RX_RRV.elf
+Finished building: default.size.stdout
+ 

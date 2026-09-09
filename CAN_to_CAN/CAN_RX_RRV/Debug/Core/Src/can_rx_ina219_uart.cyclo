@@ -1,8 +1,0 @@
-../Core/Src/can_rx_ina219_uart.c:37:13:Configure_CAN_Filter	2
-../Core/Src/can_rx_ina219_uart.c:57:13:Decode_And_Print_Frame	5
-../Core/Src/can_rx_ina219_uart.c:85:5:main	2
-../Core/Src/can_rx_ina219_uart.c:112:6:SystemClock_Config	3
-../Core/Src/can_rx_ina219_uart.c:142:13:MX_CAN1_Init	2
-../Core/Src/can_rx_ina219_uart.c:161:13:MX_USART2_UART_Init	2
-../Core/Src/can_rx_ina219_uart.c:176:13:MX_GPIO_Init	1
-../Core/Src/can_rx_ina219_uart.c:194:6:Error_Handler	1
